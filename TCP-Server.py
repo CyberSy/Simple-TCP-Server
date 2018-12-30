@@ -1,6 +1,8 @@
 import socket
 import threading
 
+print (3*"\t","=============> TCP Server  <=============")
+
 bind_ip   = "127.0.0.1" #change this!
 bind_port = 9999 #change this! 
 
